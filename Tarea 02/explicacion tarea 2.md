@@ -1,5 +1,5 @@
-# Explicacion decisiones Tarea N2 - Felipe Guajardo
-## Ejercecicio 1
+# Explicacion decisiones Tarea Nº2 - Felipe Guajardo
+## Ejercicio 1
 Aqui se le da una orden al programa para que imprima determinados numeros, donde el numero inicial se escribe bajo num inicial y el final num final (pero se le agrega un +1 porque parte de cero en el conteo de la lista), entonces se usa la opcion range, porque estamos hablando de un rango de tal numero hasta el otro (inicial y final), y eso se conoce como lista, y se programa para que lo imprima (print).
 
 ## Ejercicio 2
